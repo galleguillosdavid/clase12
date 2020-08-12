@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="txt1">Que huvo Marica</string>
+    <string name="txt1">Que huvo Mamerto</string>
+    <string name="boton1">Dispara</string>
 </resources>

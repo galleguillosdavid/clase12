@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name" translatable="false">DavidGIdiomas</string>
     <string name="txt1">Welcome</string>
-
+    <string name="boton1">Press</string>
 </resources>
