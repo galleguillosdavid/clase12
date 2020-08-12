@@ -27,4 +27,15 @@
         app:layout_constraintStart_toStartOf="@+id/txt1"
         app:layout_constraintTop_toBottomOf="@+id/txt1" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="41dp"
+        android:layout_marginBottom="97dp"
+        android:text="@string/txt1"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/txt1"
+        app:layout_constraintStart_toStartOf="@+id/txt1" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
